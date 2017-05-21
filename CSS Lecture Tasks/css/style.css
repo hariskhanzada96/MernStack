@@ -1,0 +1,108 @@
+body{
+background-color: #D1C1C1;
+}
+#start{
+margin-left: 80px;
+margin-right: 80px;
+background-color: white;
+}
+#firstdiv{
+  font-family: cursive;
+  display: inline-block;
+  margin-left: 100px;
+}
+#seconddiv{
+  font-family: cursive;
+  display: inline-block;
+}
+nav{
+  float: right;
+  margin-right: 100px;
+  border: 0px dotted;
+}
+ul li{
+  font-family: cursive;
+  display: inline-block;
+  margin-left: 12px;
+  color: black;
+}
+
+.thirddiv{
+  border: 0px solid;
+  margin-left: 100px;
+  background-image: url(../img/Mustang.jpg);
+  height: 200px;
+  width: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2{
+display: inline-block;
+margin-top: 100px;
+margin-left: 400px;
+border: 1px solid;
+border-radius: 20px;
+background: grey;
+text-align: center;
+font-family: cursive;
+}
+
+#white{
+color: white;
+text-align: center;
+font-family: cursive;
+}
+
+h3{
+text-align: center;
+}
+hr.line1{
+border-top: 1px solid #8c8b8b;
+}
+
+#para1{
+border: 0px solid;
+margin-left: 190px;
+height: 200px;
+width: 400px;
+display: inline-block;
+text-align: left;
+font-family: cursive;
+padding-bottom: 75px;
+}
+hr.line2{
+border-top: 1px solid #8c8b8b;
+}
+
+#para2{
+border: 0px solid;
+height: 200px;
+width: 400px;
+display: inline-block;
+text-align: left;
+font-family: cursive;
+padding-bottom: 75px;
+}
+
+p{
+color: black;
+}
+
+#smlimg{
+margin-top: 10px;
+height: 100px;
+width: 150px;
+margin-left: 190px;
+background-image:url(../img/Batman.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+hr.line3{
+border-top: 1px solid #8c8b8b;
+}
+footer{
+	font-family: cursive;
+  margin-left: 100px;
+}
